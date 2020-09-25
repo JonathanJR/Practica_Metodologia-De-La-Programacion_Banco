@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1510557577 source:c:\users\usuario\documents\practica1\main.cpp
+	"Fecha.h"
+	"Cliente.h"
+
+1510124102 c:\users\usuario\documents\practica1\include\fecha.h
+	<iostream>
+	<string>
+
+1510125673 c:\users\usuario\documents\practica1\include\cliente.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1510126330 source:c:\users\usuario\documents\practica1\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1510126403 source:c:\users\usuario\documents\practica1\src\cuenta.cpp
+	"Cuenta.h"
+	<cstring>
+
+1510126403 c:\users\usuario\documents\practica1\include\cuenta.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1510123164 source:c:\users\usuario\documents\practica1\src\fecha.cpp
+	"Fecha.h"
+	<sstream>
+
+1510126330 source:c:\users\usuario\downloads\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1510125673 c:\users\usuario\downloads\include\cliente.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1510124102 c:\users\usuario\downloads\include\fecha.h
+	<iostream>
+	<string>
+
+1510560329 source:c:\users\usuario\downloads\src\cuenta.cpp
+	"Cuenta.h"
+	<cstring>
+	<sstream>
+
+1510735195 c:\users\usuario\downloads\include\cuenta.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1510560366 source:c:\users\usuario\downloads\src\cuentacorriente.cpp
+	<cstring>
+	<sstream>
+	"CuentaCorriente.h"
+
+1510735369 c:\users\usuario\downloads\include\cuentacorriente.h
+	<Cuenta.h>
+
+1510559800 source:c:\users\usuario\downloads\src\fecha.cpp
+	"Fecha.h"
+	<sstream>
+
+1510735401 source:c:\users\usuario\downloads\main.cpp
+	"Fecha.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+
+1511214703 source:d:\mpii\curso 1718\practica1bayuda2017\main.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+	"Banco.h"
+
+1510124102 d:\mpii\curso 1718\practica1bayuda2017\include\fecha.h
+	<iostream>
+	<string>
+
+1510858607 d:\mpii\curso 1718\practica1bayuda2017\include\cliente.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1510735195 d:\mpii\curso 1718\practica1bayuda2017\include\cuenta.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1510735369 d:\mpii\curso 1718\practica1bayuda2017\include\cuentacorriente.h
+	<Cuenta.h>
+
+1511206287 d:\mpii\curso 1718\practica1bayuda2017\include\banco.h
+	"Fecha.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+
+1511206672 source:d:\mpii\curso 1718\practica1bayuda2017\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1511206672 source:d:\mpii\curso 1718\practica1bayuda2017\src\cuenta.cpp
+	"Cuenta.h"
+	<cstring>
+	<sstream>
+
+1510560366 source:d:\mpii\curso 1718\practica1bayuda2017\src\cuentacorriente.cpp
+	<cstring>
+	<sstream>
+	"CuentaCorriente.h"
+
+1510559800 source:d:\mpii\curso 1718\practica1bayuda2017\src\fecha.cpp
+	"Fecha.h"
+	<sstream>
+
+1511206809 source:d:\mpii\curso 1718\practica1bayuda2017\src\banco.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<sstream>
+	<typeinfo>
+	<stdio.h>
+	"Banco.h"
+
+1511741096 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\main.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+	"CuentaAhorro.h"
+	"Banco.h"
+	<typeinfo>
+
+1511737739 c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\include\fecha.h
+	<iostream>
+	<string>
+
+1511740970 c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\include\cuenta.h
+	<iostream>
+	<sstream>
+	<string>
+	"Fecha.h"
+
+1511740333 c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\include\cuentacorriente.h
+	<Cuenta.h>
+
+1511740525 c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\include\cuentaahorro.h
+	<Cuenta.h>
+
+1511741138 c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\include\banco.h
+	"Fecha.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+	"CuentaAhorro.h"
+
+1511738643 c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\include\cliente.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1511741320 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\src\banco.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<sstream>
+	<typeinfo>
+	<stdio.h>
+	"Banco.h"
+
+1511737955 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1511740792 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\src\cuenta.cpp
+	"Cuenta.h"
+	<cstring>
+
+1511741126 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\src\cuentaahorro.cpp
+	<cstring>
+	<sstream>
+	"CuentaAhorro.h"
+
+1511737892 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\src\cuentacorriente.cpp
+	<cstring>
+	<sstream>
+	"CuentaCorriente.h"
+
+1511737546 source:c:\users\yoni_\desktop\metodologia\practica 1 - parte 2\src\fecha.cpp
+	"Fecha.h"
+	<sstream>
+
+1511737955 source:c:\users\yoni_\desktop\practica 1 - parte 2\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+
+1511738643 c:\users\yoni_\desktop\practica 1 - parte 2\include\cliente.h
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1511737739 c:\users\yoni_\desktop\practica 1 - parte 2\include\fecha.h
+	<iostream>
+	<string>
+
+1511867996 source:c:\users\yoni_\desktop\practica 1 - parte 2\src\cuenta.cpp
+	"Cuenta.h"
+	<cstring>
+
+1511740970 c:\users\yoni_\desktop\practica 1 - parte 2\include\cuenta.h
+	<iostream>
+	<sstream>
+	<string>
+	"Fecha.h"
+
+1511741126 source:c:\users\yoni_\desktop\practica 1 - parte 2\src\cuentaahorro.cpp
+	<cstring>
+	<sstream>
+	"CuentaAhorro.h"
+
+1511740525 c:\users\yoni_\desktop\practica 1 - parte 2\include\cuentaahorro.h
+	<Cuenta.h>
+
+1511737892 source:c:\users\yoni_\desktop\practica 1 - parte 2\src\cuentacorriente.cpp
+	<cstring>
+	<sstream>
+	"CuentaCorriente.h"
+
+1511740333 c:\users\yoni_\desktop\practica 1 - parte 2\include\cuentacorriente.h
+	<Cuenta.h>
+
+1511737546 source:c:\users\yoni_\desktop\practica 1 - parte 2\src\fecha.cpp
+	"Fecha.h"
+	<sstream>
+
+1511873383 source:c:\users\yoni_\desktop\practica 1 - parte 2\main.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+	"CuentaAhorro.h"
+	"Banco.h"
+	<typeinfo>
+
+1511868334 c:\users\yoni_\desktop\practica 1 - parte 2\include\banco.h
+	"Fecha.h"
+	"Cliente.h"
+	"Cuenta.h"
+	"CuentaCorriente.h"
+	"CuentaAhorro.h"
+
+1511873338 source:c:\users\yoni_\desktop\practica 1 - parte 2\src\banco.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<sstream>
+	<typeinfo>
+	<stdio.h>
+	"Banco.h"
+
